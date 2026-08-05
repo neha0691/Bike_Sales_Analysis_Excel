@@ -91,7 +91,7 @@ The interactive dashboard includes:
 
 - Middle-aged customers represent the largest group of bike purchasers.
 - Single customers purchase bikes more frequently than married customers.
-- Customers in the Pacific region have the highest bike purchase rate.
+- Customers in the North America region have the highest bike purchase rate.
 - Professionals show the highest bike purchase rate among occupation groups.
 - Customers commuting between 2–5 miles are more likely to purchase bikes.
 - Income has only a modest influence on bike purchasing behaviour.
