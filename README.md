@@ -131,23 +131,6 @@ Business Insights
 
 ---
 
-## Repository Structure
-
-Bike_Sales_Analysis_Excel/
-
-│── Bike_Sales_Analysis.xlsx
-│── README.md
-│
-├── Dataset/
-│     └── Bike_Sales_Raw.xlsx
-│
-├── Images/
-│     ├── Dashboard.png
-│     ├── PivotTables.png
-│     └── KPI.png
-
----
-
 ## What I Learned
 
 Through this project, I strengthened my skills in:
