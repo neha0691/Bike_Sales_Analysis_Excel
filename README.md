@@ -63,6 +63,11 @@ This project answers the following questions:
 
 ---
 
+## PivotTable Analysis
+![Bike Sales Pivot Tables](images/Bike%20Sales%20Pivot%20Tables.png)
+
+---
+
 ## Dashboard Preview
 ![Bike Sales Dashboard](images/Bike%20Sales%20Dashboard.png)
 ---
