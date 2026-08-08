@@ -61,8 +61,7 @@ This project answers the following questions:
 ---
 
 ## Dashboard Preview
-<img width="1100" height="713" alt="image" src="https://github.com/user-attachments/assets/b7eb3ee8-9b31-47e0-bb4b-c2560a8c784f" />
-
+![Bike Sales Dashboard](Images/Dashboard.png)
 ---
 
 ## Dashboard Features
@@ -150,3 +149,7 @@ Through this project, I strengthened my skills in:
 - Recreate the dashboard in Power BI.
 - Perform trend analysis using larger datasets.
 - Develop predictive models using Python.
+
+
+**Neha Gupta**
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
