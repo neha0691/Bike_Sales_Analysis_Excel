@@ -61,7 +61,7 @@ This project answers the following questions:
 ---
 
 ## Dashboard Preview
-![Bike Sales Dashboard](Images/Dashboard.png)
+![Bike Sales Dashboard](images/Bike%20Sales%20Dashboard.png)
 ---
 
 ## Dashboard Features
