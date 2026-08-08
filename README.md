@@ -58,6 +58,9 @@ This project answers the following questions:
 | Total Non-Purchases | 519 |
 | Bike Purchase Rate | 48.1% |
 
+## KPI Overview
+![Bike Sales KPI Cards](images/Bike%20Sales%20KPI%20Cards.png)
+
 ---
 
 ## Dashboard Preview
