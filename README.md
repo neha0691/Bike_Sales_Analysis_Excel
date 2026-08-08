@@ -22,7 +22,7 @@ The primary objectives of this project were to:
 This project answers the following questions:
 
 1. Does marital status influence bike purchases?
-2. Which gender purchases the most bikes?
+2. Which gender has the highest bike purchase rate?
 3. Does customer income affect bike purchases?
 4. Which region has the highest number of bike purchases?
 5. How does commute distance influence bike purchases?
@@ -90,7 +90,7 @@ The interactive dashboard includes:
 
 - Middle-aged customers represent the largest group of bike purchasers.
 - Single customers purchase bikes more frequently than married customers.
-- Customers in the North America region have the highest bike purchase rate.
+- The Pacific region has the highest bike purchase rate at 58.9%.
 - Professionals show the highest bike purchase rate among occupation groups.
 - Customers commuting between 2–5 miles are more likely to purchase bikes.
 - Income has only a modest influence on bike purchasing behaviour.
